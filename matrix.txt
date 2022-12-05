@@ -49,8 +49,8 @@ MD_Parola P = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
 //MD_Parola P = MD_Parola(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN, MAX_DEVICES);
 
 // WiFi login parameters - network name and password
-const char* ssid = "LIEU";
-const char* password = "lieu03091971";
+const char* ssid = "hoan";
+const char* password = "12345678";
 
 // WiFi Server object and parameters
 WiFiServer server(80);
